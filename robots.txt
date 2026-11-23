@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noblesolidsurface-lang.github.io/nss-remodel-planning/sitemap.xml
